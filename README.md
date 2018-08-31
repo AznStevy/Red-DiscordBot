@@ -1,4 +1,8 @@
 # owo - An osu! Discord bot
+[<img src="https://discordapp.com/api/guilds/290312423309705218/widget.png?style=shield">](https://discord.gg/aNKde73)
+
+**This code no longer works due to the game's website changing + other small changes, so I've decided to stop updating it. The bot (v3) is currently being rewritten and will no longer follow the Redbot structure (v2 or v3). Please keep this in mind as you contemplate wasting 3+ hours trying to get this code to work. If you want to see what new stuff v3 might offer, click that fancy button-looking thing above to join the owo dev server. Cheers!**
+
 This is [owo](http://owobot.xyz/), an instance of Red, an open source Discord bot created by [Twentysix](https://github.com/Twentysix26/Red-DiscordBot) and modified by Stevy for the specific purpose of Osu!.
 
 Key Features include:
